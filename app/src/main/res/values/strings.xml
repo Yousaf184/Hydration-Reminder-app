@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hydration-Reminder-app</string>
+    <string name="info_text1">Increment the water count after hydrating yourself</string>
+    <string name="info_text2">by clicking on the cup</string>
+    <string name="initial_water_count">0</string>
+    <string name="reset_water_count">Reset Water Count</string>
+</resources>

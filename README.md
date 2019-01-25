@@ -1,2 +1,7 @@
 # Hydration-Reminder-app
-Simple android app that can be used to see how to schedule jobs, create notifications, use Intent Service and Job Service in android
+Simple android app that demonstrates the use of following in android
+
+* Schedule jobs via FirebaseJobDispatcher
+* Create notifications
+* Use Intent Service
+* Use Job Service in android
